@@ -1,0 +1,11 @@
+﻿model,pipeline,de_rag_score,de_cot_score,de_moe_score,de_overall,use_rag,use_moe,use_cot,category
+C0,C0,0.0,0.8636,0.9022,0.5886,0,0,0,ablation_study
+C1,C1,0.7691,0.7978,0.8785,0.8151,1,0,0,ablation_study
+C2,C2,0.0,0.8662,0.9108,0.5923,0,1,0,ablation_study
+C3,C3,0.0,0.9038,0.8756,0.5931,0,0,1,ablation_study
+C4,C4,0.8335,0.8294,0.8391,0.834,1,1,0,ablation_study
+C5,C5,0.7597,0.7557,0.8056,0.7737,1,0,1,ablation_study
+C6,C6,0.0,0.8613,0.8978,0.5864,0,1,1,ablation_study
+C7,C7,0.8125,0.7562,0.7991,0.7893,1,1,1,ablation_study
+GPT-4o-mini,No Pipeline,0.0,0.9412,0.9465,0.6293,0,0,0,extended_baseline
+Qwen2.5-7B-INT4,No Pipeline,0.0,0.7624,0.8977,0.5534,0,0,0,extended_baseline
