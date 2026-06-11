@@ -42,12 +42,10 @@ dataset-pipeline-math-sd/
 │   └── deepeval_all.csv
 │
 ├── 02_extended_baseline/
-│   ├── qwen7b_output.csv
-│   ├── gpt4omini_output.csv
-│   ├── deepeval_extended.csv
-│   └── comparison_full.csv
-│
-└── README.md
+    ├── qwen7b_output.csv
+    ├── gpt4omini_output.csv
+    ├── deepeval_extended.csv
+    └── comparison_full.csv
 ```
 
 ---
