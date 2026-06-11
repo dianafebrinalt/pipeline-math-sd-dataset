@@ -30,7 +30,7 @@ The following documents were used as RAG knowledge base:
 
 ```
 dataset-pipeline-math-sd/
-├── 02_ablation_study_C0-C7/
+├── 01_ablation_study_C0-C7/
 │   ├── c0_output.csv
 │   ├── c1_output.csv
 │   ├── c2_output.csv
@@ -41,7 +41,7 @@ dataset-pipeline-math-sd/
 │   ├── c7_output.csv
 │   └── deepeval_all.csv
 │
-├── 03_extended_baseline/
+├── 02_extended_baseline/
 │   ├── qwen7b_output.csv
 │   ├── gpt4omini_output.csv
 │   ├── deepeval_extended.csv
