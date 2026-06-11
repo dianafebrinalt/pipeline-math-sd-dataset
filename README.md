@@ -17,13 +17,19 @@ This dataset contains generated question outputs and DeepEval evaluation results
 
 ---
 
+## Knowledge Base Sources
+
+The following documents were used as RAG knowledge base:
+- Buku Matematika Kelas 4 SD — Kemendikbudristek, 2022
+- Lembar Kerja Siswa (LKS) Matematika Kelas 4 SD
+- Bank Soal Matematika Kelas 4 SD
+
+---
+
 ## Folder Structure
 
 ```
 dataset-pipeline-math-sd/
-├── 01_knowledge_base/
-│   └── [Indonesian SD mathematics textbooks - PDF]
-│
 ├── 02_ablation_study_C0-C7/
 │   ├── c0_output.csv
 │   ├── c1_output.csv
